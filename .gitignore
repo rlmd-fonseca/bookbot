@@ -1,0 +1,5 @@
+__pycache__/
+.idea
+*class java.lang.String
+venv/
+books/
